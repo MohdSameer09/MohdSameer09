@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  I’m pursuing  B.Tech in Computer Science & Engineering from Allenhouse Institute of Technology (Graduating in 2027)<br> I’m an aspiring Software Engineer with a strong interest in Web Development<br> I’m continuously learning and improving my skills in modern technologies<br> I’m looking to collaborate on web development and open-source projects<br> Skilled in multiple programming languages and development tools<br> Ask me about JavaScript, TypeScript, Frontend Development, Backend Development, and Web Technologies<br> Fun fact: I love building real-world projects and exploring new tech trends
 
 
